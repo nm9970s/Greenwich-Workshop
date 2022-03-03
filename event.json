@@ -1,0 +1,14 @@
+{
+    "args": {
+        "sender": "0xbed63d024C33ce5DAC1d842c3F31BbcbE9C93cf3",
+        "name": "Hello",
+        "message": "Hi There"
+    },
+    "event": "MessageReceived",
+    "logIndex": 45,
+    "transactionIndex": 20,
+    "transactionHash": "0xad6007cad7035c4ebab8200fa017dc0792ba87757ed2a1019174059c51304c3a",
+    "address": "0x8BA729A7F72D307966EC50273a81e316756C4437",
+    "blockHash": "0xa3693a1f7e97eb4fdbdb5fd037edc14c9e3de9f5bd9929fdae654376d14166e6",
+    "blockNumber": 10260671
+}
